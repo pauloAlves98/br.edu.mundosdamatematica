@@ -1,0 +1,42 @@
+<ACAS>
+  <nome>ACAS</nome>
+  <Perguntas>
+    <Pergunta>
+      <pergunta__feita>6 + 2</pergunta__feita>
+      <respostas>
+        <resposta>8</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 + 3</pergunta__feita>
+      <respostas>
+        <resposta>6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 + 3</pergunta__feita>
+      <respostas>
+        <resposta>6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 + 3</pergunta__feita>
+      <respostas>
+        <resposta>6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 + 4</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 + 3</pergunta__feita>
+      <respostas>
+        <resposta>6 </resposta>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+  </Perguntas>
+</ACAS>

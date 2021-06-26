@@ -1,0 +1,38 @@
+<list>
+  <Detalhe>
+    <tempo>
+      <minuto>0</minuto>
+      <segundo>19</segundo>
+      <hora>0</hora>
+      <tempoTotal>19</tempoTotal>
+    </tempo>
+    <nome>PADS </nome>
+  </Detalhe>
+  <Detalhe>
+    <tempo>
+      <minuto>2</minuto>
+      <segundo>25</segundo>
+      <hora>0</hora>
+      <tempoTotal>145</tempoTotal>
+    </tempo>
+    <nome>Teste</nome>
+  </Detalhe>
+  <Detalhe>
+    <tempo>
+      <minuto>4</minuto>
+      <segundo>21</segundo>
+      <hora>0</hora>
+      <tempoTotal>261</tempoTotal>
+    </tempo>
+    <nome>NOME </nome>
+  </Detalhe>
+  <Detalhe>
+    <tempo>
+      <minuto>22</minuto>
+      <segundo>36</segundo>
+      <hora>0</hora>
+      <tempoTotal>1356</tempoTotal>
+    </tempo>
+    <nome>MPOO </nome>
+  </Detalhe>
+</list>

@@ -1,0 +1,41 @@
+<PADS>
+  <nome>PADS</nome>
+  <Perguntas>
+    <Pergunta>
+      <pergunta__feita>4 + 3</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 + 7</pergunta__feita>
+      <respostas>
+        <resposta>11</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>7 + 0</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 + 9</pergunta__feita>
+      <respostas>
+        <resposta>14</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 + 9</pergunta__feita>
+      <respostas>
+        <resposta>9</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 + 2</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+  </Perguntas>
+</PADS>

@@ -1,0 +1,476 @@
+<df>
+  <nome>df</nome>
+  <Perguntas>
+    <Pergunta>
+      <pergunta__feita>6 + 2</pergunta__feita>
+      <respostas>
+        <resposta>8</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 + 9</pergunta__feita>
+      <respostas>
+        <resposta>9</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 4</pergunta__feita>
+      <respostas>
+        <resposta>6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 + 5</pergunta__feita>
+      <respostas>
+        <resposta>10</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>6 + 1</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 4</pergunta__feita>
+      <respostas>
+        <resposta>6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 + 7</pergunta__feita>
+      <respostas>
+        <resposta>10</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>7 + 3</pergunta__feita>
+      <respostas>
+        <resposta>10</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 1</pergunta__feita>
+      <respostas>
+        <resposta>3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 + 1</pergunta__feita>
+      <respostas>
+        <resposta>5</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 + 9</pergunta__feita>
+      <respostas>
+        <resposta>10</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 + 1</pergunta__feita>
+      <respostas>
+        <resposta>2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>8 + 8</pergunta__feita>
+      <respostas>
+        <resposta>16</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 2</pergunta__feita>
+      <respostas>
+        <resposta>3 </resposta>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 + 4</pergunta__feita>
+      <respostas>
+        <resposta>5</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 - 0</pergunta__feita>
+      <respostas>
+        <resposta>3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 - 7</pergunta__feita>
+      <respostas>
+        <resposta>-4 </resposta>
+        <resposta>-5</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 - 4</pergunta__feita>
+      <respostas>
+        <resposta>-4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 - 0</pergunta__feita>
+      <respostas>
+        <resposta>1</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 - 5</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 - 1</pergunta__feita>
+      <respostas>
+        <resposta>0</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 - 9</pergunta__feita>
+      <respostas>
+        <resposta>-4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 - 5</pergunta__feita>
+      <respostas>
+        <resposta>-2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 - 9</pergunta__feita>
+      <respostas>
+        <resposta>0</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 - 8</pergunta__feita>
+      <respostas>
+        <resposta>-6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 - 6</pergunta__feita>
+      <respostas>
+        <resposta>-6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 - 3</pergunta__feita>
+      <respostas>
+        <resposta>-1</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>7 - 1</pergunta__feita>
+      <respostas>
+        <resposta>6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 - 3</pergunta__feita>
+      <respostas>
+        <resposta>-3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 - 9</pergunta__feita>
+      <respostas>
+        <resposta>-7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>6 - 7</pergunta__feita>
+      <respostas>
+        <resposta>-1</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 - 5</pergunta__feita>
+      <respostas>
+        <resposta>-4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 - 0</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 - 9</pergunta__feita>
+      <respostas>
+        <resposta>-8</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>8 - 0</pergunta__feita>
+      <respostas>
+        <resposta>8</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>6 - 2</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 - 1</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 - 3</pergunta__feita>
+      <respostas>
+        <resposta>0</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 - 8</pergunta__feita>
+      <respostas>
+        <resposta>-6</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 - 8</pergunta__feita>
+      <respostas>
+        <resposta>-4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 - 3</pergunta__feita>
+      <respostas>
+        <resposta>1</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 - 0</pergunta__feita>
+      <respostas>
+        <resposta>3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 - 9</pergunta__feita>
+      <respostas>
+        <resposta>-4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 - 4</pergunta__feita>
+      <respostas>
+        <resposta>-2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 - 1</pergunta__feita>
+      <respostas>
+        <resposta>2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 - 2</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 - 7</pergunta__feita>
+      <respostas>
+        <resposta>-2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 - 2</pergunta__feita>
+      <respostas>
+        <resposta>2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 * 5</pergunta__feita>
+      <respostas>
+        <resposta>45</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 * 9</pergunta__feita>
+      <respostas>
+        <resposta>18</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 * 2</pergunta__feita>
+      <respostas>
+        <resposta>18</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 * 5</pergunta__feita>
+      <respostas>
+        <resposta>15</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 * 5</pergunta__feita>
+      <respostas>
+        <resposta>25</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 * 9</pergunta__feita>
+      <respostas>
+        <resposta>81</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>6 * 5</pergunta__feita>
+      <respostas>
+        <resposta>30</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 * 4</pergunta__feita>
+      <respostas>
+        <resposta>8</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 * 3</pergunta__feita>
+      <respostas>
+        <resposta>12</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 * 5</pergunta__feita>
+      <respostas>
+        <resposta>45</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 * 9</pergunta__feita>
+      <respostas>
+        <resposta>27</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 * 6</pergunta__feita>
+      <respostas>
+        <resposta>54</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 * 6</pergunta__feita>
+      <respostas>
+        <resposta>0</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 * 3</pergunta__feita>
+      <respostas>
+        <resposta>15</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 * 3</pergunta__feita>
+      <respostas>
+        <resposta>0</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>4 ÷ 2</pergunta__feita>
+      <respostas>
+        <resposta>2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>12 ÷ 3</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>28 ÷ 7</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>36 ÷ 4</pergunta__feita>
+      <respostas>
+        <resposta>8 </resposta>
+        <resposta>9</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>27 ÷ 9</pergunta__feita>
+      <respostas>
+        <resposta>3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>16 ÷ 8</pergunta__feita>
+      <respostas>
+        <resposta>2</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>27 ÷ 3</pergunta__feita>
+      <respostas>
+        <resposta>9</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>40 ÷ 8</pergunta__feita>
+      <respostas>
+        <resposta>5</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 ÷ 5</pergunta__feita>
+      <respostas>
+        <resposta>1</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>28 ÷ 4</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>45 ÷ 9</pergunta__feita>
+      <respostas>
+        <resposta>5</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>15 ÷ 5</pergunta__feita>
+      <respostas>
+        <resposta>3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>56 ÷ 8</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 ÷ 5</pergunta__feita>
+      <respostas>
+        <resposta>1</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 ÷ 3</pergunta__feita>
+      <respostas>
+        <resposta>1</resposta>
+      </respostas>
+    </Pergunta>
+  </Perguntas>
+</df>

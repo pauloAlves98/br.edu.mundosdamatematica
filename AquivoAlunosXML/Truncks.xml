@@ -1,0 +1,96 @@
+<Truncks>
+  <nome>Truncks</nome>
+  <Perguntas>
+    <Pergunta>
+      <pergunta__feita>9 + 4</pergunta__feita>
+      <respostas>
+        <resposta>13</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 5</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>0 + 8</pergunta__feita>
+      <respostas>
+        <resposta>8</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>1 + 2</pergunta__feita>
+      <respostas>
+        <resposta>3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 9</pergunta__feita>
+      <respostas>
+        <resposta>11</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 + 3</pergunta__feita>
+      <respostas>
+        <resposta>12</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>8 + 3</pergunta__feita>
+      <respostas>
+        <resposta>11</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>8 + 6</pergunta__feita>
+      <respostas>
+        <resposta>14</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 + 8</pergunta__feita>
+      <respostas>
+        <resposta>11</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 + 0</pergunta__feita>
+      <respostas>
+        <resposta>6 </resposta>
+        <resposta>3</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>3 + 1</pergunta__feita>
+      <respostas>
+        <resposta>4</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>5 + 5</pergunta__feita>
+      <respostas>
+        <resposta>10</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 5</pergunta__feita>
+      <respostas>
+        <resposta>7</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>9 + 0</pergunta__feita>
+      <respostas>
+        <resposta>9</resposta>
+      </respostas>
+    </Pergunta>
+    <Pergunta>
+      <pergunta__feita>2 + 0</pergunta__feita>
+      <respostas>
+        <resposta>2</resposta>
+      </respostas>
+    </Pergunta>
+  </Perguntas>
+</Truncks>
