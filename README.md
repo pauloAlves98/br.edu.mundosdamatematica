@@ -3,7 +3,7 @@
 # Mundos da Matemática 🕹️
 
 Mundos da Matemática é um jogo desenvolvido pelo discente Paulo Alves da Silva, sob orientação do Prof. Dr. Richarlyson Alves D'Emery, durante a disciplina de MPOO, do curso de Bacharelando em Sistemas de Informação da Unidade Acadêmica de Serra Talhada (UAST) da Universidade Federal Rural de Pernambuco (UFRPE). 
-O jogo tem como objetivo exercitar de maneira lúdica conceitos de amatemática como soma, subtração, multiplicação e divisão.
+O jogo tem como objetivo exercitar de maneira lúdica conceitos de matemática como soma, subtração, multiplicação e divisão.
 
 - Acesse o jogo através do link: [(https://github.com/pauloAlves98/br.edu.mundosdamatematica/releases/tag/v.1.0)]
 - Após o download extraia o arquivo e execute o .jar
